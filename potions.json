@@ -1,0 +1,55 @@
+{
+    "Potion de soin" : {
+        "auteur" : "Elia Margette",
+        "niveau" : 1,
+        "ingredients" : {},
+        "effets" : ["Rends 2 points de vie."]
+    },
+    "Potion revigorante" : {
+        "niveau" : 1,
+        "ingredients" : {},
+        "effets" : ["Rends 2 points de mana."]
+    },
+    "Potion des mauvais coeurs" : {    
+        "auteur" : "Trudor (le liquide)",    
+        "niveau" : 2,
+        "ingredients" : {},
+        "effets" : ["Rends le patient complètement triste et inconsollable.", "Peut entraîner la mort du patient.", "Paranoïa", "Montée du stress"]
+    },
+    "Potion de coeurs jumeaux" : {        
+        "auteur" : "Trudor (le liquide)",    
+        "niveau" : 2,
+        "ingredients" : {},
+        "effets" : ["Permet à deux patients qui les ingurgitent de tomber amoureux.", "L'amour porposé peut ressembler à de l'obsession"]
+    }
+    
+    "Potion de soin de Margette" : {
+        "auteur" : "Elia Margette",
+        "niveau" : 2,
+        "ingredients" : {},
+        "effets" : ["Rends 4 points de vie."]
+    },
+    "Potion revigorante de Poularde" : {
+        "niveau" : 2,
+        "ingredients" : {},
+        "effets" : ["Rends 4 points de mana.", "Goût de poulet"]
+    },    
+    "Potion passe-vitraille": {
+        "auteur" : "Izigo Alaton",
+        "niveau" : 3,
+        "ingredients" : {},
+        "effets" : ["Permet de rendre une paroi transparente."]
+    },
+    "Potion passe-muraille": {
+        "auteur" : "Emilio Alaton",
+        "niveau" : 4,
+        "ingredients" : {},
+        "effets" : ["Permet de percer la roche."]
+    },
+    "Potion passe-muraille fluorhydrique": {
+        "auteur" : "Delirio Alaton",
+        "niveau" : 5,
+        "ingredients" : {},
+        "effets" : ["Permet de percer le métal."]
+    },
+}
