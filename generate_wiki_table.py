@@ -1,7 +1,8 @@
 from utils import read_json, write_txt
 
 def get_item(name, data, header, header_type):
-    if header_type == "key": return name
+    if header_type == "key": return name        
+    if header not in data.keys(): return ""
     if header_type == "link": return f"[[{data[header]}]]"
     if header_type == "text": return data[header]
     if header_type == "dict": return "\n" + "\n".join(f"*{k} : ({v})" for k,v in data[header])
