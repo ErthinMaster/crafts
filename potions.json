@@ -22,6 +22,18 @@
         "ingrédients" : {},
         "effets" : ["Permet à deux patients qui les ingurgitent de tomber amoureux.", "L'amour porposé peut ressembler à de l'obsession"]
     },
+    "Extrait d'Ayalum" : {        
+        "auteur" : "Trudor (le liquide)",    
+        "niveau" : 2,
+        "ingrédients" : {},
+        "effets" : ["Allège le corps du patient.", "Permet de bondir plus haut.", "Donne une voix aïgue."]
+    },
+    "Extrait d'Ayalum épuré" : {        
+        "auteur" : "Trudor (le liquide)",    
+        "niveau" : 3,
+        "ingrédients" : {},
+        "effets" : ["Suprimme le poids du corps.", "Permet de flotter."]
+    },
     "Potion de soin de Margette" : {
         "auteur" : "Elia Margette",
         "niveau" : 2,
@@ -50,5 +62,5 @@
         "niveau" : 5,
         "ingrédients" : {},
         "effets" : ["Permet de percer le métal."]
-    },
+    }
 }
