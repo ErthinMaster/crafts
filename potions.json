@@ -10,6 +10,30 @@
         "ingrédients" : {},
         "effets" : ["Rends 2 points de mana."]
     },
+    "Potion poumon-plein" : {
+        "auteur" : "Kreul Liewenbech",    
+        "niveau" : 2,
+        "ingrédients" : {},
+        "effets" : ["Permet de retenir sa réspiration pendant une demi-heure."]
+    },    
+    "Pomade feu-léger" : {
+        "auteur" : "Kreul Liewenbech",    
+        "niveau" : 2,
+        "ingrédients" : {},
+        "effets" : ["Permet d'inifuger sa peau.", "Attention les effets s'éstompent lorsque la pomade se durcifies et se craquellent."]
+    },
+    "Potion de concentration élémentaire" : {
+        "auteur" : "Kreul Liewenbech",    
+        "niveau" : 2,
+        "ingrédients" : {},
+        "effets" : ["Emplifie le lien d'un élémentaliste a ses pouvoirs.", "Potion à réserver aux élémentalistes."]
+    },    
+    "Potion de protection neuro-nevralgique" : {
+        "auteur" : "Kreul Liewenbech",    
+        "niveau" : 2,
+        "ingrédients" : {},
+        "effets" : ["Permet de limiter les effets de la foudre sur le corps humain."]
+    },
     "Potion des mauvais coeurs" : {    
         "auteur" : "Trudor (le liquide)",    
         "niveau" : 2,
@@ -33,6 +57,12 @@
         "niveau" : 3,
         "ingrédients" : {},
         "effets" : ["Suprimme le poids du corps.", "Permet de flotter."]
+    },
+    "Potion molle peau" : {        
+        "auteur" : "Trudor (le liquide)",    
+        "niveau" : 3,
+        "ingrédients" : {},
+        "effets" : ["Dissous les os du patients."]
     },
     "Potion de soin de Margette" : {
         "auteur" : "Elia Margette",
