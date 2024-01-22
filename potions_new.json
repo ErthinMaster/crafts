@@ -1,0 +1,221 @@
+{
+    "Potion de soin": {
+        "auteur": "Elia Margette",
+        "niveau": 1,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Rends 2 points de vie."
+        ],
+        "ingredients": {
+            "Tillandsia\n": 2,
+            "Bulbocode\n": 2,
+            "Digitale\n": 2
+        }
+    },
+    "Potion revigorante": {
+        "niveau": 1,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Rends 2 points de mana."
+        ],
+        "ingredients": {
+            "Persil\n": 2,
+            "Pois vivace\n": 2
+        }
+    },
+    "Potion poumon-plein": {
+        "auteur": "Kreul Liewenbech",
+        "niveau": 2,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Permet de retenir sa r\u00e9spiration pendant une demi-heure."
+        ],
+        "ingredients": {
+            "M\u00c3\u00a9lilot officinal\n": 3,
+            "Lotus\n": 4,
+            "Courbaril\n": 4,
+            "Tag\u00c3\u00a8te\n": 2
+        }
+    },
+    "Pomade feu-l\u00e9ger": {
+        "auteur": "Kreul Liewenbech",
+        "niveau": 2,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Permet d'inifuger sa peau.",
+            "Attention les effets s'\u00e9stompent lorsque la pomade se durcifies et se craquellent."
+        ],
+        "ingredients": {
+            "An\u00c3\u00a9mone h\u00c3\u00a9patique\n": 4,
+            "V\u00c3\u00a9ronique d'Allioni\n": 3,
+            "\u00c5\u2019illet\n": 2
+        }
+    },
+    "Potion de concentration \u00e9l\u00e9mentaire": {
+        "auteur": "Kreul Liewenbech",
+        "niveau": 2,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Emplifie le lien d'un \u00e9l\u00e9mentaliste a ses pouvoirs.",
+            "Potion \u00e0 r\u00e9server aux \u00e9l\u00e9mentalistes."
+        ],
+        "ingredients": {
+            "Reine-des-pr\u00c3\u00a9s\n": 4,
+            "M\u00c3\u00a9lilot officinal\n": 4
+        }
+    },
+    "Potion de protection neuro-nevralgique": {
+        "auteur": "Kreul Liewenbech",
+        "niveau": 2,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Permet de limiter les effets de la foudre sur le corps humain."
+        ],
+        "ingredients": {
+            "Centaurea jacea\n": 4,
+            "Rhododendron\n": 3,
+            "Khat\n": 4,
+            "Cumin des pr\u00c3\u00a9s\n": 2
+        }
+    },
+    "Potion des mauvais coeurs": {
+        "auteur": "Trudor (le liquide)",
+        "niveau": 2,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Rends le patient compl\u00e8tement triste et inconsollable.",
+            "Peut entra\u00eener la mort du patient.",
+            "Parano\u00efa",
+            "Mont\u00e9e du stress"
+        ],
+        "ingredients": {
+            "Orge des rats\n": 2,
+            "Val\u00c3\u00a9riane\n": 4,
+            "Pois vivace\n": 4,
+            "Oreille-d'ours\n": 3
+        }
+    },
+    "Potion de coeurs jumeaux": {
+        "auteur": "Trudor (le liquide)",
+        "niveau": 2,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Permet \u00e0 deux patients qui les ingurgitent de tomber amoureux.",
+            "L'amour porpos\u00e9 peut ressembler \u00e0 de l'obsession"
+        ],
+        "ingredients": {
+            "Ginseng\n": 3,
+            "Pin sylvestre\n": 4,
+            "Bupl\u00c3\u00a8vre en faux\n": 2
+        }
+    },
+    "Extrait d'Ayalum": {
+        "auteur": "Trudor (le liquide)",
+        "niveau": 2,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "All\u00e8ge le corps du patient.",
+            "Permet de bondir plus haut.",
+            "Donne une voix a\u00efgue."
+        ],
+        "ingredients": {
+            "Ficus\n": 3,
+            "Sanicle d'Europe\n": 2,
+            "Oseille\n": 3
+        }
+    },
+    "Extrait d'Ayalum \u00e9pur\u00e9": {
+        "auteur": "Trudor (le liquide)",
+        "niveau": 3,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Suprimme le poids du corps.",
+            "Permet de flotter."
+        ],
+        "ingredients": {
+            "Tr\u00c3\u00a8fle douteux\n": 4,
+            "Cl\u00c3\u00a9matite\n": 4,
+            "Sceau de Slamon\n": 6
+        }
+    },
+    "Potion molle peau": {
+        "auteur": "Trudor (le liquide)",
+        "niveau": 3,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Dissous les os du patients."
+        ],
+        "ingredients": {
+            "Vigne\n": 5,
+            "Sapin de Vancouver\n": 5,
+            "Chou-rave\n": 3,
+            "Gal\u00c3\u00a9ga officinal\n": 3
+        }
+    },
+    "Potion de soin de Margette": {
+        "auteur": "Elia Margette",
+        "niveau": 2,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Rends 4 points de vie."
+        ],
+        "ingredients": {
+            "Pamplemousse\n": 4,
+            "Ginkgo\n": 2,
+            "Kaki\n": 2
+        }
+    },
+    "Potion revigorante de Poularde": {
+        "niveau": 2,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Rends 4 points de mana.",
+            "Go\u00fbt de poulet"
+        ],
+        "ingredients": {
+            "Bleuet des champs\n": 3,
+            "Ch\u00c3\u00aane p\u00c3\u00a9doncul\u00c3\u00a9\n": 3
+        }
+    },
+    "Potion passe-vitraille": {
+        "auteur": "Izigo Alaton",
+        "niveau": 3,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Permet de rendre une paroi transparente."
+        ],
+        "ingredients": {
+            "Fenouil des Alpes\n": 5,
+            "Tr\u00c3\u00a8fle \u00c3\u00a9toil\u00c3\u00a9\n": 6,
+            "Bulbocode\n": 6,
+            "Vigne\n": 4,
+            "Henn\u00c3\u00a9\n": 5
+        }
+    },
+    "Potion passe-muraille": {
+        "auteur": "Emilio Alaton",
+        "niveau": 4,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Permet de percer la roche."
+        ],
+        "ingredients": {
+            "Val\u00c3\u00a9riane bleut\u00c3\u00a9\n": 8,
+            "Giroflier\n": 7,
+            "Orchis pyramidal\n": 8
+        }
+    },
+    "Potion passe-muraille fluorhydrique": {
+        "auteur": "Delirio Alaton",
+        "niveau": 5,
+        "ingr\u00e9dients": {},
+        "effets": [
+            "Permet de percer le m\u00e9tal."
+        ],
+        "ingredients": {
+            "Sil\u00c3\u00a8ne acaule\n": 5,
+            "Avoine\n": 2,
+            "Gen\u00c3\u00aat d'Espagne\n": 7
+        }
+    }
+}
